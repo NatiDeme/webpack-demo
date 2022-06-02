@@ -1,5 +1,5 @@
 const tasks = [
-    {
+  {
     description: 'washing dish',
     completed: false,
     index: 0,
@@ -14,6 +14,6 @@ const tasks = [
     completed: false,
     index: 2,
   },
-]
+];
 
-export default tasks; 
+export default tasks;
