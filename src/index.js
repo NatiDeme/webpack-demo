@@ -1,5 +1,3 @@
-// eslint-disable-next-line no-unused-vars
-import _ from 'lodash';
 import container from './modules/container.js';
 import './style.css';
 
