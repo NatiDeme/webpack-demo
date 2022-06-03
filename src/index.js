@@ -1,7 +1,7 @@
-// eslint-disable-next-line no-unused-vars
-import _ from 'lodash';
 import container from './modules/container.js';
 import './style.css';
+import addTask from './modules/addTasks.js';
+import completedChecker from './modules/completedChecker.js';
 
 const app = () => {
   const main = document.getElementById('main');
@@ -9,3 +9,5 @@ const app = () => {
 };
 
 app();
+addTask();
+completedChecker();
