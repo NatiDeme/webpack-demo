@@ -1,7 +1,7 @@
 const footer = () => {
   const footer = document.createElement('div');
   footer.innerHTML += `
-    <p>clear all completed</p>
+    <button class="clearButton" id="clear"><p>clear all completed</p></button>
     
     `;
   footer.classList.add('footer');

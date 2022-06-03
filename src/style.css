@@ -16,12 +16,42 @@
   font-size: 20px;
 }
 
+.task-holder {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.task-holder p {
+  font-size: 25px;
+}
+
 .list {
   padding-left: 8px;
 }
 
 .lists li {
   margin-top: 10px;
+}
+
+.each-tasks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 14px;
+  height: 45px;
+}
+
+.tasks {
+  width: 250px;
+}
+
+.deleted {
+  all: unset;
+}
+
+.edited {
+  all: unset;
 }
 
 .list-header {
@@ -46,4 +76,8 @@
 
 .footer:hover {
   text-decoration: underline;
+}
+
+.clearButton {
+  all: unset;
 }
