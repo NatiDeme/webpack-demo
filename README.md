@@ -6,7 +6,7 @@ This a todo list project that uses webpack
 - CSS
 - JavaScript
 # Live Demo
-- https://natideme.github.io/webpack-demo
+- https://natideme.github.io/webpack-demo/dist
 
 # Getting Started
 
