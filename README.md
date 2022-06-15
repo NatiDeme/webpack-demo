@@ -1,5 +1,5 @@
 # webpack-Todo list
-This a todo list project that uses webpack
+This a todo list project that uses webpack. In this project you will find features like adding tasks, deleting tasks, maintaining localstorage, marking tasks completed and clearing all completed tasks. 
 
 # Built With: 
 - HTML
